@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a8a5d92.css",
-    "main.js": "/static/js/main.589426bd.js",
-    "index.html": "/index.html",
-    "main.5a8a5d92.css.map": "/static/css/main.5a8a5d92.css.map",
-    "main.589426bd.js.map": "/static/js/main.589426bd.js.map"
+    "main.css": "/Melesegithub/Full-Stack-App.com/static/css/main.5a8a5d92.css",
+    "main.js": "/Melesegithub/Full-Stack-App.com/static/js/main.589426bd.js",
+    "index.html": "/Melesegithub/Full-Stack-App.com/index.html",
+    "main.5a8a5d92.css.map": "/Melesegithub/Full-Stack-App.com/static/css/main.5a8a5d92.css.map",
+    "main.589426bd.js.map": "/Melesegithub/Full-Stack-App.com/static/js/main.589426bd.js.map"
   },
   "entrypoints": [
     "static/css/main.5a8a5d92.css",
